@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Production
+build/
+
+# Files produce by VIM
+*.swp
