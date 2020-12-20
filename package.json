@@ -1,0 +1,23 @@
+{
+  "name": "faq-accordion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nachito2002/faq-accordion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nachito2002/faq-accordion/issues"
+  },
+  "homepage": "https://github.com/Nachito2002/faq-accordion#readme",
+  "devDependencies": {
+    "firebase-tools": "^9.0.1"
+  }
+}
